@@ -1,2 +1,2 @@
 # high_sea_tower
-java game scrolling up platformer
+java game, mouse shooter
