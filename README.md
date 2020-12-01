@@ -1,2 +1,2 @@
-# high_sea_tower
+# FishHunt
 java game, mouse shooter
